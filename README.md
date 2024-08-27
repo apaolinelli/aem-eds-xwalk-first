@@ -2,8 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Live: https://main--aem-eds-xwalk-first--apaolinelli.hlx.page/
 
 ## Installation
 
